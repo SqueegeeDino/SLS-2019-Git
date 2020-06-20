@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Waxed_Metal_Yellow
+  m_Shader: {fileID: 4800000, guid: d93e3e699fa2193498a8bfda6170f97a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_165ECBBD:
+        m_Texture: {fileID: 2800000, guid: bd2da510200325c4d96b2feac9e830cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_17023324:
+        m_Texture: {fileID: 2800000, guid: de30dfdf47a6c7d4ab702f99d6c098b8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_37837632:
+        m_Texture: {fileID: 2800000, guid: 14de1d33a7ba4cf458c3e758f2ede7c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A4F46EA9:
+        m_Texture: {fileID: 2800000, guid: bd2da510200325c4d96b2feac9e830cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C1CFAA13:
+        m_Texture: {fileID: 2800000, guid: 4cb4f5693bed1f4429fd8757d13bebbb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C32C9EBB:
+        m_Texture: {fileID: 2800000, guid: b72b4a2682369f9498895cfc1cdaffcb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FC815ABF:
+        m_Texture: {fileID: 2800000, guid: c984719ca1a15324db4b610b3e8daa3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
