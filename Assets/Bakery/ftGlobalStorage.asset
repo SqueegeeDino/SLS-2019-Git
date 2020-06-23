@@ -401,7 +401,9 @@ MonoBehaviour:
   - Assets/Bakery/examples/content/sponza/bush.FBX
   - Assets/Bakery/examples/content/floor_lamp.FBX
   - Assets/SDT Managed/Models/ledge test 7.FBX
-  uvOverlapAssetList: 00000000ffffffff00000000
+  - Assets/SDT Managed/Models/SLS2019LA_Banners.fbx
+  - Assets/SDT Managed/Models/Source/SLS2019LA_MainCourse.blend
+  uvOverlapAssetList: 00000000ffffffff000000000101000001010000
   xatlasWarningShown: 0
   checkerPreviewOn: 0
   rtSceneViewPreviewOn: 0
